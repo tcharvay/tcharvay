@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-soy Tomas Charvay.
+Soy Tomas Charvay.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
