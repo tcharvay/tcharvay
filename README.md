@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Tomas Charvay.
+I'm Tomas Charvay.
 
 - 📫 How to reach me: tomascharvay@hotmail.com
 
