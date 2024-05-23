@@ -4,6 +4,11 @@ I'm Tomas Charvay.
 
 - 📫 How to reach me: tomascharvay@hotmail.com
 
+Certifications:
+
+- HTML / CSS :
+- Javascript : https://www.coderhouse.com/ar/certificados/664ca6abdd180d6b061c1cb2?lang=
+
 <!--
 **tcharvay/tcharvay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
