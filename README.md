@@ -6,12 +6,10 @@ I'm Tomas Charvay.
 
 Certifications:
 
-- HTML / CSS :
-- Javascript : 
+- HTML / CSS 
+- Javascript 
 
-- in [Javascript](#Features) 
 
-## Features <a id='https://www.coderhouse.com/ar/certificados/664ca6abdd180d6b061c1cb2?lang='></a>
 
 <!--
 **tcharvay/tcharvay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
