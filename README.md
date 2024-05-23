@@ -9,7 +9,7 @@ Certifications:
 - HTML / CSS :
 - Javascript : https://www.coderhouse.com/ar/certificados/664ca6abdd180d6b061c1cb2?lang=
 
-- in [Section 'Features'](#ssFeatures) 
+- in [Javascript](#ssFeatures) 
 
 ## Features <a id='ssFeatures'></a>
 
