@@ -7,7 +7,7 @@ I'm Tomas Charvay.
 Certifications:
 
 - HTML / CSS 
-- Javascript 
+- [Javascript](https://www.coderhouse.com/ar/certificados/664ca6abdd180d6b061c1cb2?lang=)
 
 
 
