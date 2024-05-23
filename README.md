@@ -9,7 +9,7 @@ Certifications:
 - HTML / CSS :
 - Javascript : 
 
-- in [Javascript](#ssFeatures) 
+- in [Javascript](#[ssFeatures](https://www.coderhouse.com/ar/certificados/664ca6abdd180d6b061c1cb2?lang=)) 
 
 ## Features <a id='https://www.coderhouse.com/ar/certificados/664ca6abdd180d6b061c1cb2?lang='></a>
 
