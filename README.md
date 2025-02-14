@@ -2,7 +2,7 @@
 
 I'm Tomas Charvay.
 
-- 📫 How to reach me: tomascharvay@hotmail.com
+- 📫 How to reach me: tcharvay@gmail.com
 
 Certifications:
 
